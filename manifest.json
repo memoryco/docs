@@ -1,0 +1,38 @@
+{
+  "title": "MemoryCo Documentation",
+  "description": "Documentation for the MemoryCo cognitive memory system",
+  "sections": [
+    {
+      "title": "Getting Started",
+      "pages": [
+        { "slug": "getting-started/installation", "title": "Installation" },
+        { "slug": "getting-started/quickstart", "title": "Quick Start" },
+        { "slug": "getting-started/configuration", "title": "Configuration" }
+      ]
+    },
+    {
+      "title": "Concepts",
+      "pages": [
+        { "slug": "concepts/memories", "title": "Memories & Engrams" },
+        { "slug": "concepts/identity", "title": "Identity" },
+        { "slug": "concepts/references", "title": "References" },
+        { "slug": "concepts/lenses", "title": "Lenses" }
+      ]
+    },
+    {
+      "title": "Tools",
+      "pages": [
+        { "slug": "tools/memory-server", "title": "Memory Server" },
+        { "slug": "tools/filesystem-server", "title": "Filesystem Server" },
+        { "slug": "tools/agents-server", "title": "Agents Server" }
+      ]
+    },
+    {
+      "title": "Guides",
+      "pages": [
+        { "slug": "guides/writing-memories", "title": "Writing Good Memories" },
+        { "slug": "guides/procedures", "title": "Procedure Chains" }
+      ]
+    }
+  ]
+}
