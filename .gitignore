@@ -3,3 +3,6 @@
 *.swo
 *~
 .vscode/
+
+# AI semantic search index
+.ai-index/

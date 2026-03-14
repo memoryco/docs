@@ -20,6 +20,8 @@ The assistant will walk you through an interactive onboarding process where you 
 
 Identity never decays. It's not memory — it's who your assistant *is*.
 
+Identity isn't a one-time setup. You can refine it at any point — even mid-conversation. Just tell your assistant to update a trait, add a value, change the tone, or adjust anything else. It's designed to evolve as your working relationship develops.
+
 ## Step 2: Have a Conversation
 
 Once identity is set up, just talk naturally. MemoryCo works in the background:
@@ -36,7 +38,13 @@ Ask your assistant:
 > "What do you know about me?"
 > "Search your memories for [topic]"
 
-You can also open the memory dashboard to browse and manage memories visually.
+## Step 4: Explore the Dashboard
+
+MemoryCo includes a visual dashboard for browsing memories, associations, and the knowledge graph. Ask your assistant:
+
+> "Open the memory dashboard."
+
+The dashboard opens in your browser and gives you a direct view into what your assistant knows — you can explore connections between memories, check energy levels, and see how your knowledge graph is growing.
 
 ## What's Next?
 
